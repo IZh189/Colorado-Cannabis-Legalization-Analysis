@@ -17,25 +17,18 @@ What were the economic and public safety impacts of recreational cannabis legali
 - Synthetic Control Method (SCM)
 - Comparative policy analysis
 - Counterfactual estimation
-- Statistical analysis in R
+- Statistical analysis in R and Python
 
 ## Technologies
 
 - R
+- Python
 - Synth package
 - Data Analysis
 - Statistical Modeling
 - Policy Evaluation
 
-## Repository Structure
 
-```text
-.
-├── data/          # Datasets used in the analysis
-├── scripts/       # R scripts
-├── report/        # Final report
-└── README.md
-```
 
 ## Results
 
@@ -48,4 +41,4 @@ The project estimates the causal effects of recreational cannabis legalization o
 
 ## Author
 
-Yaroslav Zhilkin
+Iaroslav Zhilkin
