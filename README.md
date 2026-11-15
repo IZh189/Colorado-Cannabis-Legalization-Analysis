@@ -36,8 +36,9 @@ The project estimates the causal effects of recreational cannabis legalization o
 
 ## Files
 
-- `report/Colorado_Cannabis_Impact_Report.pdf` - Final project report
+- `Colorado_Cannabis_Impact_Report.pdf` - Final project report
 - `scripts/` - Analysis code and model implementation
+- `Data For Project` - Data 
 
 ## Author
 
